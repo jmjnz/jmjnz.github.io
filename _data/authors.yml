@@ -8,7 +8,7 @@ jmjnz:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    AI & Robotics & Drone
+    AI
 
   # This photo will be used in the about section
   picture:
@@ -22,7 +22,7 @@ jmjnz:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    # facebook:        jmjnz
+    facebook:        jmjnz
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
@@ -58,7 +58,7 @@ jmjnz:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:jmjnz1994@gmail.com
-    rss:             https://jmjnz.github.io/feed.xml
+    # rss:             https://jmjnz.github.io/feed.xml
 
 # Another author
 mdo:
