@@ -7,4 +7,4 @@ order: 10
 
 ## 소개
 
-AI & Drone & Robotics
+AI
