@@ -4,7 +4,8 @@ title: "[리뷰] 왜 지금 드론인가"
 subtitle: "왜 지금 드론을 해야되는가"  
 categories: review  
 tags: review book 드론 국방 산업 기술 사물인터넷 규제
-comments: true  
+comments: true
+--- 
   
 > `미래의 창` 출판사의 `"왜 지금 드론인가"`를 읽고 작성한 리뷰입니다.
 
