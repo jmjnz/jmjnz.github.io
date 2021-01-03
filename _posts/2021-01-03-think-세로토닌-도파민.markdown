@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "세로토닌과 도파민 수치를 올리는 6가지 음식"
+subtitle:   "subtitle"
+categories: think
+tags: think dopamine food 
+comments: true
+---
+세로토닌과 도파민 수치를 올리는 6가지 음식:
+귀리, 바나나, 달걀, 초콜릿, 파인애플, 연어
+(병아리콩은 썡 처음들어봐서 제외하였음)
+---
+
+* [참조한 블로그](https://wonderfulmind.co.kr/7-foods-serotonin-dopamine/)
