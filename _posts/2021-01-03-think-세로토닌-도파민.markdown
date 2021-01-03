@@ -5,14 +5,20 @@ subtitle:   "subtitle"
 categories: think
 tags: think dopamine food 
 comments: true
+---
 
 > 네이버 블로그를 참조하여 쓴 글입니다.
 
 ---
+
 스트레스를 푸는데 운동이 제격이지만 음식을 통해서 푸는것도 하나의 방법이라 생각한다.
+
 맨아래 링크한 블로그에서 세로토닌과 도파민 수치를 올리는 음식 7가지를 소개하였다.
+
 7가지를 나열하자면 `귀리`, `바나나`, `달걀`, `초콜릿`, `파인애플`, `연어`, `병아리콩`이다.
+
 7가지 음식중 쉽게 구할수있는 `바나나`, `달걀`, `초콜릿`을 꾸준히 섭취해보자.
+
 ---
 
 * [참조한 블로그](https://wonderfulmind.co.kr/7-foods-serotonin-dopamine/)
